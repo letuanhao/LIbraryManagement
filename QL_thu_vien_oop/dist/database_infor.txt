@@ -1,0 +1,3 @@
+Dòng thứ nhất là tài khoản để kết nối vào database dòng thứ 2 là mật khẩu để kết nối vào database
+sa
+123456
